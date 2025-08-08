@@ -80,6 +80,6 @@ Contributions are welcome! If you have ideas for improvements or find any bugs, 
 
 ## Contact
 For any queries or support, please contact:
-- **Your Name**
+- **Ammar**
 - Email: ammarhash.27@gmail.com
 - GitHub: chocogititup
